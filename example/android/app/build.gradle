@@ -49,6 +49,7 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+    namespace 'com.xamdesign.safe_device_example'
 }
 
 flutter {
